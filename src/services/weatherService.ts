@@ -1,5 +1,5 @@
 const BASE_URL = "https://api.openweathermap.org/data/2.5";
-const API_KEY = "10efcda6339e8a5a24477a754f889c95"; // https://openweathermap.org/api
+const API_KEY = ""; // https://openweathermap.org/api
 
 // Інтерфейс для координат
 interface Coordinates {
