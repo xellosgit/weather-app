@@ -1,0 +1,12 @@
+{
+  "weatherApp": {
+    "title": "Прогноз погоди",
+    "toggleTheme": "Перемкнути тему",
+    "noWeatherData": "Дані про погоду недоступні",
+    "favouriteCities": "Улюблені міста",
+    "addCity": "Додати місто",
+    "myLocation": "Моя локація",
+    "showWeather": "Показати",
+    "removeCity": "Видалити"
+  }
+}

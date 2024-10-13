@@ -1,0 +1,12 @@
+{
+  "weatherApp": {
+    "title": "Weather App",
+    "toggleTheme": "Toggle Theme",
+    "noWeatherData": "No weather data available",
+    "favouriteCities": "Favourite Cities",
+    "addCity": "Add City",
+    "myLocation": "My Location",
+    "showWeather": "Show",
+    "removeCity": "Remove"
+  }
+}

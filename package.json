@@ -1,0 +1,64 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "chart.js": "^3.9.1",
+    "i18next": "^21.3.3",
+    "react": "^18.3.1",
+    "react-chartjs-2": "^4.3.1",
+    "react-dom": "^18.3.1",
+    "react-i18next": "^11.8.3",
+    "react-scripts": "^5.0.1",
+    "web-vitals": "^4.2.3"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^6.5.0",
+    "@testing-library/react": "^14.3.1",
+    "@types/babel__core": "^7.20.5",
+    "@types/babel__generator": "^7.6.8",
+    "@types/babel__template": "^7.4.4",
+    "@types/babel__traverse": "^7.20.6",
+    "@types/chart.js": "^2.9.41",
+    "@types/estree": "^1.0.6",
+    "@types/graceful-fs": "^4.1.9",
+    "@types/html-minifier-terser": "^7.0.2",
+    "@types/istanbul-lib-coverage": "^2.0.6",
+    "@types/istanbul-lib-report": "^3.0.3",
+    "@types/jest": "^29.5.13",
+    "@types/json-schema": "^7.0.15",
+    "@types/parse-json": "^4.0.2",
+    "@types/prettier": "^2.7.3",
+    "@types/react": "^18.3.11",
+    "@types/react-chartjs-2": "^2.0.2",
+    "@types/react-dom": "^18.3.1",
+    "@types/stack-utils": "^2.0.3",
+    "@types/styled-components": "^5.1.34",
+    "typescript": "^4.3.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
